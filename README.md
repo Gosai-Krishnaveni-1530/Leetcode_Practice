@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [1260-shift-2d-grid](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1260-shift-2d-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0048-rotate-image) |
+| [1260-shift-2d-grid](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1260-shift-2d-grid) |
 ## String
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0043-multiply-strings) |
+| [1260-shift-2d-grid](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1260-shift-2d-grid) |
 ## Stack
 |  |
 | ------- |

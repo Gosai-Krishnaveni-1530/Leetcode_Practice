@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1260-shift-2d-grid) |
 ## Two Pointers
 |  |
@@ -21,6 +22,7 @@
 | [0043-multiply-strings](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0071-simplify-path) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->

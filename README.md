@@ -11,6 +11,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0071-simplify-path) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
@@ -75,4 +77,12 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->

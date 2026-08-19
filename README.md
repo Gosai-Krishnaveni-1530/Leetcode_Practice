@@ -10,6 +10,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2029-stone-game-ix](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -77,6 +78,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
@@ -94,10 +96,12 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |

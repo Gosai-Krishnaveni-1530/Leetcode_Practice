@@ -16,6 +16,3 @@ class Solution:
         return result
 
         
-        
-                
-        return arr1, arr2

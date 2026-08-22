@@ -34,6 +34,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [2029-stone-game-ix](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |

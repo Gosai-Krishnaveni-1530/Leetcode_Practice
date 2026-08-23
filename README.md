@@ -32,6 +32,7 @@
 | [0048-rotate-image](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1927-sum-game](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0071-simplify-path) |
+| [1927-sum-game](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -116,6 +119,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |

@@ -151,4 +151,8 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1872-stone-game-viii) |
+## Database
+|  |
+| ------- |
+| [1280-students-and-examinations](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->

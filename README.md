@@ -27,6 +27,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -167,4 +169,5 @@
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->

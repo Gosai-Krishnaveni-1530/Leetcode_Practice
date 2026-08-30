@@ -169,6 +169,7 @@
 |  |
 | ------- |
 | [1280-students-and-examinations](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1280-students-and-examinations) |
+| [1667-fix-names-in-a-table](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1667-fix-names-in-a-table) |
 ## Enumeration
 |  |
 | ------- |

@@ -21,6 +21,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -56,6 +57,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
@@ -120,6 +123,7 @@
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
@@ -184,4 +188,8 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->

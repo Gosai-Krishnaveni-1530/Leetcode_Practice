@@ -26,6 +26,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1872-stone-game-viii) |
+| [3904-smallest-stable-index-ii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Database
 |  |
 | ------- |

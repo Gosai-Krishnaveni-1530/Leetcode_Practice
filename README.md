@@ -53,6 +53,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1872-stone-game-viii) |
 ## Memoization
 |  |
@@ -70,6 +71,7 @@
 | [0043-multiply-strings](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |

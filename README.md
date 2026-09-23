@@ -12,6 +12,7 @@
 | [1260-shift-2d-grid](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -125,6 +127,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Segment Tree
@@ -175,6 +178,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
@@ -187,6 +191,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1872-stone-game-viii) |
 | [3904-smallest-stable-index-ii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Database

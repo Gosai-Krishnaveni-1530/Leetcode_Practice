@@ -203,6 +203,7 @@
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0584-find-customer-referee) |
 | [1280-students-and-examinations](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1280-students-and-examinations) |
 | [1667-fix-names-in-a-table](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1683-invalid-tweets) |

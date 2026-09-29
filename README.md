@@ -17,6 +17,7 @@
 | [2029-stone-game-ix](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -60,6 +61,7 @@
 | [0115-distinct-subsequences](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Memoization
 |  |
@@ -70,6 +72,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1260-shift-2d-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
@@ -233,4 +236,5 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->

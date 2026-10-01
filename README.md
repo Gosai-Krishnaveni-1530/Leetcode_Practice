@@ -77,6 +77,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0115-distinct-subsequences) |
@@ -101,6 +102,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0071-simplify-path) |
 | [1096-brace-expansion-ii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -235,6 +237,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->

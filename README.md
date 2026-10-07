@@ -78,6 +78,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0071-simplify-path) |
@@ -130,6 +131,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1096-brace-expansion-ii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -141,6 +143,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |

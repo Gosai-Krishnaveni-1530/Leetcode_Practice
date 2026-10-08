@@ -85,6 +85,7 @@
 | [0115-distinct-subsequences](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1927-sum-game](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1927-sum-game) |
@@ -108,6 +109,7 @@
 | [0020-valid-parentheses](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0071-simplify-path) |
 | [0678-valid-parenthesis-string](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Sorting
@@ -246,6 +248,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->

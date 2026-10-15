@@ -83,6 +83,7 @@
 | [0043-multiply-strings](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0115-distinct-subsequences) |
+| [0387-first-unique-character-in-a-string](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1021-remove-outermost-parentheses) |
@@ -127,6 +128,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0387-first-unique-character-in-a-string](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -251,4 +254,8 @@
 | [1021-remove-outermost-parentheses](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

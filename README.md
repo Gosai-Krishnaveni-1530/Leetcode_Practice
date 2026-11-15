@@ -36,6 +36,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0115-distinct-subsequences) |
@@ -265,4 +267,20 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gosai-Krishnaveni-1530/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
